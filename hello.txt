@@ -1,4 +1,4 @@
 hello git, testing commits
 
 This is written in a new branch called feature-hello-update.
-This is Main branch
+This is conflict-test branch
